@@ -1,2 +1,4 @@
 src/*
 !src/.gitkeep
+*.code-workspace
+docker/nginx/log/*
